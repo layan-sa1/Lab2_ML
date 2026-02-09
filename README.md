@@ -9,9 +9,10 @@ This is a supervised classification problem using a structured tabular dataset.
 The target variable is booking status.
 
 ## Methodology Diagram
-![Methodology Diagram](methodology_diagram.png)
+![Methodology Diagram](Methodology.png)
 
 *The methodology diagram was generated using an AI-based tool.*
+
 
 
 
